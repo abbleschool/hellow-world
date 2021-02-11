@@ -1,7 +1,7 @@
-hello
-aa
+#helloworld
 
 
-aa
 
-a
+print('hello world)
+
+pls work oh god

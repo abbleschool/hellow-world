@@ -2,6 +2,6 @@
 
 
 
-print('hello world)
+print('hello world')
 
 pls work oh god
